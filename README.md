@@ -1,4 +1,7 @@
 # **Задание 26**
+Часть 1:
+
+![alt text](part1.png)
 
 ``` Delphi
 program laba2part1;
