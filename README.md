@@ -2,7 +2,7 @@
 Часть 1:
 
 ![alt text](part1.png)
-
+> Delphi
 ``` Delphi
 program laba2part1;
 uses
